@@ -1,5 +1,3 @@
-# Aspire-Inteview
-
 Project Overview
 The Inventory Management System is a web application that helps businesses keep track of their inventory. This project is built with React for the frontend and Flask for the backend, providing a simple and modern interface to manage inventory items. The system includes features like adding, editing, and deleting items, as well as basic AI-driven inventory reordering suggestions based on stock thresholds.
 
